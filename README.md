@@ -14,6 +14,7 @@ Leetcode-Problems
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [1635-number-of-good-pairs](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
