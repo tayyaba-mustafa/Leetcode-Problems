@@ -26,6 +26,7 @@
 <strong>Output:</strong> 0
 </pre>
 
+Note:This question is same as 1512:https://leetcode.com/problems/number-of-good-pairs/description/
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
