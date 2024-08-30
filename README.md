@@ -5,6 +5,7 @@ Leetcode-Problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0001-two-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -12,6 +13,7 @@ Leetcode-Problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0001-two-sum) |
 | [1635-number-of-good-pairs](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
