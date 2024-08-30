@@ -8,6 +8,7 @@ Leetcode-Problems
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,12 @@ Leetcode-Problems
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
