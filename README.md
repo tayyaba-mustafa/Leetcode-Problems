@@ -7,6 +7,7 @@ Leetcode-Problems
 | ------- |
 | [0001-two-sum](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -16,12 +17,14 @@ Leetcode-Problems
 | ------- |
 | [0001-two-sum](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -44,4 +47,13 @@ Leetcode-Problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
