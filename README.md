@@ -34,6 +34,7 @@ Leetcode-Problems
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
