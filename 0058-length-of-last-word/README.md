@@ -35,3 +35,9 @@
 	<li><code>s</code> consists of only English letters and spaces <code>&#39; &#39;</code>.</li>
 	<li>There will be at least one word in <code>s</code>.</li>
 </ul>
+
+🌼Optimized Approach:🌼
+In this approach,we use split function to  convert string into list and also length function to find the length of last word which is present at the end.For this purpose we use negative indexing.
+
+🎯Time Complexity: O(n)
+🎯Space Complexity: O(n)
