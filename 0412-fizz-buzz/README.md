@@ -26,8 +26,8 @@
 </ul>
 
 🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:
--First we declare and initialize a List "ans".
--Then we use for loop and apply conditions.
--Append function is used to add items in list.
+First we declare and initialize a List "ans".
+Then we use for loop and apply conditions.
+Append function is used to add items in list.
 
 🎯𝗧𝗶𝗺𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆:O(n)
