@@ -33,3 +33,7 @@
 	<li><code>nums.length == 2n</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 10^3</code></li>
 </ul>
+
+🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵: First we declare and initialize a List "ans". Then we use for loop and Append function to add items in list.
+
+🎯𝗧𝗶𝗺𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆:O(n)
