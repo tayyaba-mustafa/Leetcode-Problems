@@ -31,3 +31,8 @@
 	<li><code>1 &lt;= nums.length &lt;= 1000</code></li>
 	<li><code>-10^6&nbsp;&lt;= nums[i] &lt;=&nbsp;10^6</code></li>
 </ul>
+
+🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:
+First we initialize 0th index of runningSum array to 0th index of nums array(runningSum[0] = nums[0]). Then we use for loop to find the running sum of 1D array(runningSum[i] = runningSum[i-1] + nums[i]).
+
+🎯𝗧𝗶𝗺𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: O(n) 
