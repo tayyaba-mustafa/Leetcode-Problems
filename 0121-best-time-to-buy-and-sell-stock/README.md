@@ -29,3 +29,8 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 	<li><code>1 &lt;= prices.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= prices[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:
+When we find low price of stock, we should buy it so that we can get maximum profit in a later day. Initialize buy to the first price in the list and profit to 0.Loop through each price starting from the second price (prices[1:]). If the current price (p) is less than the previously set buy, update buy to the current price. Calculate the profit by subtracting the buy from the current price (p). Update profit to the maximum value between the current profit and the calculated profit. After the loop, return the final value of profit.
+
+🎯𝗧𝗶𝗺𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: O(n) 
