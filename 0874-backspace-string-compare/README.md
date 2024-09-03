@@ -37,3 +37,8 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> Can you solve it in <code>O(n)</code> time and <code>O(1)</code> space?</p>
+
+🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:
+First initialize and declare two strings a and b. Then apply for loop and apply conditions.
+
+🎯𝗧𝗶𝗺𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: O(n) 
