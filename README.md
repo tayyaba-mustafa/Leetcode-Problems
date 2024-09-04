@@ -13,6 +13,7 @@ Leetcode-Problems
 | [1580-shuffle-the-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ Leetcode-Problems
 | [0058-length-of-last-word](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
+| [1651-shuffle-string](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
