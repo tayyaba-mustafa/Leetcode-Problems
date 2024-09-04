@@ -29,3 +29,8 @@
 	<li><code>0 &lt;= indices[i] &lt; n</code></li>
 	<li>All values of <code>indices</code> are <strong>unique</strong>.</li>
 </ul>
+
+🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵: 
+First declare and initialize a string 𝐫𝐞𝐬 ="". Apply for loop of len s.Then declare  a variable 𝐚 and store the value of indices in it (𝐚 = 𝐢𝐧𝐝𝐢𝐜𝐞𝐬.𝐢𝐧𝐝𝐞𝐱(𝐢)).Then append the value in res.
+
+🎯𝗧𝗶𝗺𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: O(n)
