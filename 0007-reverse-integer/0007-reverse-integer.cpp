@@ -5,6 +5,7 @@ public:
 while(x!=0)
     {
 	    int lastdigit=x%10;
+	    int lastdigit=x%10;
         if((reverseNum>INT_MAX/10) || (reverseNum<INT_MIN/10)){
             return 0;
         }
