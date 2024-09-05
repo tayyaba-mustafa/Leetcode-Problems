@@ -31,3 +31,8 @@
 	<li><code>-2<sup>31</sup> &lt;= x &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
 
+🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵: 
+Create a variable reverseNum and initialize it to 0. This variable will hold the reversed number.Use a while loop to iterate as long as x is not zero.Extract the last digit of x using x % 10 and store it in the variable lastdigit.Check if appending the lastdigit to reverseNum would cause overflow or underflow. This is done by comparing reverseNum with INT_MAX / 10 and INT_MIN / 10.If the overflow or underflow condition is detected, return 0.Remove the last digit from x by performing x/10.
+Update reverseNum by multiplying it by 10 and adding the lastdigit.After the loop ends,return reverseNum.
+
+🎯𝗧𝗶𝗺𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: O(logn)
