@@ -46,3 +46,9 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 
 <p>&nbsp;</p>
 <p><strong>Follow up: </strong>Can you come up with an algorithm that runs in <code>O(m + n)</code> time?</p>
+
+🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵: 
+
+First we declare variables 𝐦𝐢𝐝 , 𝐧𝐢𝐝 and 𝐫 and initialize it to 𝐦-𝟏 , 𝐧-𝟏 and 𝐦+𝐧-𝟏.We know that nums1 and nums2 are 𝐬𝐨𝐫𝐭𝐞𝐝 in 𝐧𝐨𝐧-𝐝𝐞𝐜𝐫𝐞𝐚𝐬𝐢𝐧𝐠 𝐨𝐫𝐝𝐞𝐫. All we have to do is to 𝐜𝐨𝐦𝐩𝐚𝐫𝐞 𝐭𝐡𝐞 𝐥𝐚𝐬𝐭 𝐧𝐮𝐦𝐛𝐞𝐫𝐬 in both arrays.When 𝐩𝐨𝐢𝐧𝐭𝐞𝐫 for nums2 reached -𝟏 index, loop ends.
+
+🎯𝗧𝗶𝗺𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: O(m+n)
