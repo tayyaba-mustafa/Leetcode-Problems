@@ -10,6 +10,7 @@ Leetcode-Problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -75,6 +76,7 @@ Leetcode-Problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
