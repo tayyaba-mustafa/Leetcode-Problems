@@ -47,3 +47,17 @@ Right sum = nums[1] + nums[2] = 1 + -1 = 0
 
 <p>&nbsp;</p>
 <p><strong>Note:</strong> This question is the same as&nbsp;1991:&nbsp;<a href="https://leetcode.com/problems/find-the-middle-index-in-array/" target="_blank">https://leetcode.com/problems/find-the-middle-index-in-array/</a></p>
+
+🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:
+
+->A 𝐩𝐢𝐯𝐨𝐭 𝐢𝐧𝐝𝐞𝐱 is a position where the 𝐬𝐮𝐦 of elements to its 𝐥𝐞𝐟𝐭 equals the 𝐬𝐮𝐦 of elements to its 𝐫𝐢𝐠𝐡𝐭.
+
+->In this approach,𝐥𝐞𝐟𝐭_𝐬𝐮𝐦 and 𝐫𝐢𝐠𝐡𝐭_𝐬𝐮𝐦 should be the 𝐬𝐚𝐦𝐞.
+
+->𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞 𝐭𝐨𝐭𝐚𝐥 𝐬𝐮𝐦: We first compute the total sum of all elements in the array.
+
+->𝐈𝐭𝐞𝐫𝐚𝐭𝐞 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐚𝐫𝐞: We iterate through the array, keeping track of the left sum. For each element, we calculate the right sum by subtracting the left sum and the current element from the total sum. If the left sum equals the right sum, we've found the pivot index.
+
+->𝐔𝐩𝐝𝐚𝐭𝐞 𝐋𝐞𝐟𝐭 𝐒𝐮𝐦: After checking for the pivot, we update the left sum to include the current element for the next iteration.
+
+🎯𝗧𝗶𝗺𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: O(n)
