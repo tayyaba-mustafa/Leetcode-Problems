@@ -9,6 +9,7 @@ Leetcode-Problems
 | [0088-merge-sorted-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -23,6 +24,7 @@ Leetcode-Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -37,6 +39,7 @@ Leetcode-Problems
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
@@ -61,6 +64,7 @@ Leetcode-Problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Binary Search
@@ -90,4 +94,8 @@ Leetcode-Problems
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
