@@ -36,10 +36,12 @@ Create an empty array 𝐚𝐧𝐬 to store the sorted squares.
 Initialize two pointers:
 - 𝐥 points to the 𝐛𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠 of the array.
 - 𝐫 points to the 𝐞𝐧𝐝 of the array.
+- 
 ->𝐈𝐭𝐞𝐫𝐚𝐭𝐢𝐨𝐧:
 Iterate from the 𝐞𝐧𝐝 of the array to the 𝐛𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠:
 Compare the 𝐚𝐛𝐬𝐨𝐥𝐮𝐭𝐞 𝐯𝐚𝐥𝐮𝐞𝐬 of 𝐧𝐮𝐦𝐬[𝐥] and 𝐧𝐮𝐦𝐬[𝐫].
 If abs(nums[l]) is greater, it means the square of nums[l] will be larger. Assign the square of nums[l] to the current position in ans and increment l.Otherwise,assign the square of nums[r] to the current position in ans and decrement r.
+
 ->𝐑𝐞𝐭𝐮𝐫𝐧:
 Return the sorted array 𝐚𝐧𝐬.
 
