@@ -31,6 +31,7 @@ After sorting, it becomes [0,1,9,16,100].
 
 🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:
 This efficient solution leverages the concept of 𝐭𝐰𝐨 𝐩𝐨𝐢𝐧𝐭𝐞𝐫𝐬 to 𝐬𝐨𝐫𝐭 the 𝐬𝐪𝐮𝐚𝐫𝐞𝐬 of the input array in 𝐚𝐬𝐜𝐞𝐧𝐝𝐢𝐧𝐠 𝐨𝐫𝐝𝐞𝐫.
+
 ->𝐈𝐧𝐢𝐭𝐢𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧:
 Create an empty array 𝐚𝐧𝐬 to store the sorted squares.
 Initialize two pointers:
