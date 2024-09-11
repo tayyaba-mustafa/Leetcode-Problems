@@ -14,6 +14,7 @@ Leetcode-Problems
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [1019-squares-of-a-sorted-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -67,6 +68,7 @@ Leetcode-Problems
 | [0169-majority-element](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Leetcode-Problems
 | [0088-merge-sorted-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
+| [1019-squares-of-a-sorted-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
