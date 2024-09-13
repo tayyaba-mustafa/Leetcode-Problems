@@ -26,6 +26,7 @@ Leetcode-Problems
 | ------- |
 | [0001-two-sum](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -34,6 +35,7 @@ Leetcode-Problems
 | ------- |
 | [0007-reverse-integer](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -86,6 +88,7 @@ Leetcode-Problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
