@@ -52,3 +52,19 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 	<li><code>-100 &lt;= nums[i] &lt;= 100</code></li>
 	<li><code>nums</code> is sorted in <strong>non-decreasing</strong> order.</li>
 </ul>
+
+🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:
+
+->I employed a straightforward approach using 𝐭𝐰𝐨 𝐩𝐨𝐢𝐧𝐭𝐞𝐫𝐬.
+
+->One pointer (𝐢) tracks the 𝐧𝐞𝐱𝐭 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐢𝐧𝐝𝐞𝐱, while the other (𝐣) iterates 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐭𝐡𝐞 𝐚𝐫𝐫𝐚𝐲.
+
+->If the current element (𝐧𝐮𝐦𝐬[𝐣]) is 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 from the previous element (𝐧𝐮𝐦𝐬[𝐢-𝟏]), it's a 𝐮𝐧𝐢𝐪𝐮𝐞 𝐯𝐚𝐥𝐮𝐞.
+
+->We 𝐜𝐨𝐩𝐲 it to the i-th position and 𝐢𝐧𝐜𝐫𝐞𝐦𝐞𝐧𝐭 i.
+
+->The 𝐟𝐢𝐧𝐚𝐥 𝐯𝐚𝐥𝐮𝐞 of 𝐢 represents the 𝐧𝐞𝐰 𝐥𝐞𝐧𝐠𝐭𝐡 of the array after duplicates are removed.
+
+🎯𝗧𝗶𝗺𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: O(n)
+
+🎯𝐒𝐩𝐚𝐜𝐞 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: O(1)
