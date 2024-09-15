@@ -37,6 +37,7 @@ Leetcode-Problems
 | [0007-reverse-integer](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -79,6 +80,7 @@ Leetcode-Problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -106,4 +108,8 @@ Leetcode-Problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
