@@ -35,3 +35,17 @@
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you solve it without loops/recursion?
+
+🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:
+
+-𝐈𝐭𝐞𝐫𝐚𝐭𝐢𝐨𝐧: We iterate through the integers from 𝟎 𝐭𝐨 𝟑𝟎 (assuming a 𝟑𝟐-𝐛𝐢𝐭 integer).
+
+-𝐏𝐨𝐰𝐞𝐫 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐢𝐨𝐧: In each iteration, we calculate 𝟐 raised to the current exponent (𝐢).
+
+-𝐂𝐨𝐦𝐩𝐚𝐫𝐢𝐬𝐨𝐧: We compare the 𝐜𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞𝐝 𝐫𝐞𝐬𝐮𝐥𝐭 with the given integer (𝐧). If they match, we return 𝐭𝐫𝐮𝐞 as n is a power of two.
+
+-𝐑𝐞𝐭𝐮𝐫𝐧 𝐅𝐚𝐥𝐬𝐞: If no match is found after iterating through all exponents, we return false.
+
+🎯𝗧𝗶𝗺𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: O(logn)
+
+🎯𝐒𝐩𝐚𝐜𝐞 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: O(1)
