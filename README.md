@@ -40,6 +40,7 @@ Leetcode-Problems
 | [0231-power-of-two](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -87,6 +88,7 @@ Leetcode-Problems
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1013-fibonacci-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,4 +114,9 @@ Leetcode-Problems
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
