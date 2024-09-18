@@ -37,6 +37,7 @@ Leetcode-Problems
 | ------- |
 | [0007-reverse-integer](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -58,6 +59,7 @@ Leetcode-Problems
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [1651-shuffle-string](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1651-shuffle-string) |
@@ -65,6 +67,7 @@ Leetcode-Problems
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -84,6 +87,7 @@ Leetcode-Problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Dynamic Programming
