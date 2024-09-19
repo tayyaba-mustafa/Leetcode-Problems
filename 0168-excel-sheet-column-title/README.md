@@ -41,3 +41,19 @@ AB -&gt; 28
 <ul>
 	<li><code>1 &lt;= columnNumber &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
+
+🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:
+
+->Initialize an empty string 𝐚𝐧𝐬 to store the result.
+
+->While the 𝐜𝐨𝐥𝐮𝐦𝐧𝐍𝐮𝐦𝐛𝐞𝐫 is greater than 0:
+
+->Calculate the 𝐢𝐧𝐝𝐞𝐱 of the current character by taking the remainder of columnNumber - 1 divided by 26.
+
+->Append the character corresponding to the calculated index (using ASCII values) to the beginning of ans.
+
+->Update columnNumber by dividing it by 26 and flooring the result.
+
+->Return the final ans string.
+
+🎯𝗧𝗶𝗺𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: O(log(columnNumber))
