@@ -28,3 +28,22 @@
 	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 	<li>The answer is guaranteed to fit in a <strong>32-bit</strong> integer.</li>
 </ul>
+
+🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:
+
+->In this problem,mathematical approach is used.
+
+->Take the length of the array.
+
+->Now take the sum of all elements of the array.
+
+->Take the minimum value of the array.
+
+->Now Just 𝐦𝐮𝐥𝐭𝐢𝐩𝐥𝐲 the 𝐥𝐞𝐧(𝐧𝐮𝐦𝐬) and 𝐦𝐢𝐧𝐢𝐦𝐮𝐦 𝐯𝐚𝐥𝐮𝐞 of the array.
+
+->𝐒𝐮𝐛𝐭𝐫𝐚𝐜𝐭 the multiplication result from the whole 𝐬𝐮𝐦.
+
+
+🎯𝗧𝗶𝗺𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: O(n)
+
+🎯𝐒𝐩𝐚𝐜𝐞 𝐂𝐨𝐦𝐩𝐥𝐞𝐱𝐢𝐭𝐲: O(1)
