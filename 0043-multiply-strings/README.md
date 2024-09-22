@@ -18,3 +18,15 @@
 	<li><code>num1</code> and <code>num2</code> consist of digits only.</li>
 	<li>Both <code>num1</code> and <code>num2</code>&nbsp;do not contain any leading zero, except the number <code>0</code> itself.</li>
 </ul>
+
+🧠𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:
+
+->𝐂𝐨𝐧𝐯𝐞𝐫𝐭 𝐒𝐭𝐫𝐢𝐧𝐠𝐬 𝐭𝐨 𝐈𝐧𝐭𝐞𝐠𝐞𝐫𝐬: Iterate through each character in the input strings and convert them to integers using ASCII code manipulation.
+
+->𝐌𝐮𝐥𝐭𝐢𝐩𝐥𝐲 𝐈𝐧𝐭𝐞𝐠𝐞𝐫𝐬: Multiply the converted integers.
+
+->𝐂𝐨𝐧𝐯𝐞𝐫𝐭 𝐑𝐞𝐬𝐮𝐥𝐭 𝐭𝐨 𝐒𝐭𝐫𝐢𝐧𝐠: Convert the product back to a string.
+
+🎯𝗧𝗶𝗺𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: O(n)
+
+🎯𝐒𝐩𝐚𝐜𝐞 𝐂𝐨𝐦𝐩𝐥𝐞𝐱𝐢𝐭𝐲: O(1)
