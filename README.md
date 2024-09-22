@@ -38,6 +38,7 @@ Leetcode-Problems
 | ------- |
 | [0007-reverse-integer](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0202-happy-number) |
@@ -61,6 +62,7 @@ Leetcode-Problems
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
@@ -71,6 +73,7 @@ Leetcode-Problems
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
