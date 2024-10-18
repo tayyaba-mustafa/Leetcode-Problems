@@ -63,6 +63,7 @@ Leetcode-Problems
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0067-add-binary) |
@@ -109,6 +110,7 @@ Leetcode-Problems
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -135,4 +137,8 @@ Leetcode-Problems
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
