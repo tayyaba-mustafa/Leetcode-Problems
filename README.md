@@ -8,6 +8,7 @@ Leetcode-Problems
 | [0001-two-sum](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -40,6 +41,7 @@ Leetcode-Problems
 | [0007-reverse-integer](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0202-happy-number) |
