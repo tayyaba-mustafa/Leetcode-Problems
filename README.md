@@ -49,6 +49,7 @@ Leetcode-Problems
 | [0231-power-of-two](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0390-elimination-game](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -138,6 +139,7 @@ Leetcode-Problems
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0390-elimination-game](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
