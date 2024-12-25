@@ -107,12 +107,14 @@ Leetcode-Problems
 | [0067-add-binary](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/tayyaba-mustafa/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
